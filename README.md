@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+<<<<<<< HEAD
 ###
 
 <h3 align="left">Tecnologias que uso</h3>
@@ -49,3 +50,7 @@
 <img src="https://raw.githubusercontent.com/Viniciuss2004/Viniciuss2004/output/snake.svg" alt="Snake animation" />
 
 ###
+=======
+##### Sempre buscando maneiras inovadoras de aplicar meus conhecimentos em projetos práticos. 
+
+>>>>>>> 2d74e21b80ce04a2bb72c8f86efa73a8634bb3da

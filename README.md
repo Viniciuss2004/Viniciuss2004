@@ -1,4 +1,4 @@
-<p align="left">Olá! Eu sou o Vinicius, futuro Programador Backend!👨🏾‍💻👋🏾</p>
+<p align="left">Olá! Eu sou Vinicius, futuro Programador Backend!👨🏾‍💻👋🏾</p>
 
 
 <h3 align="left">Redes para contato</h3>

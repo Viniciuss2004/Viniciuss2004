@@ -1,8 +1,19 @@
-<h2 align="center">Bem-vindo ao meu GitHub</h2>
+<h2 align="center" style="color: #ff5733;">Bem-vindo ao meu GitHub</h2>
+
+<div align="center">
+  <p>
+ Olá! Eu sou Vinicius, estudante de Sistema de Informação e com objetivo de ser futuramente um Programador Java em Backend!👋🏾
+  </p>
+</div>
+ 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/2bab3d9d-62d2-45fe-952b-90eaea2c68e3" alt="mylivewallpapers-com-Sekiro-Mortal-Blade-4K">
+</div>
+
 
 <!-- Presentation -->
 <p>
-  Olá! Eu sou Vinicius, estudante de Sistema de Informação e com objetivo de ser futuramente um Programador Java em Backend, em um constante processo de evolução todos os dias, ampliando meus conhecimento e aprendendo coisas novas, a procura de uma oportunidade de emprego para começar a atuar logo no que amo fazer!👋🏾
+  Estou sempre em um constante processo de evolução todos os dias, ampliando meus conhecimento e aprendendo coisas novas, a procura de uma oportunidade de emprego para começar a atuar logo no que amo fazer.
 </p>
 <!-- Dropdown -->
 <details>
@@ -28,7 +39,7 @@
 <h2 align="left">Estatística</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###

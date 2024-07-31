@@ -1,5 +1,18 @@
 <p align="left">Olá! Eu sou Vinicius, futuro Programador Backend!👨🏾‍💻👋🏾</p>
 
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Carlos! A passionate Cibersecurity student from Brazil.
+  - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
+  - 🔭 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
+</p>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Cybersecurity, and Machine Learning.
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+<!-- Links -->
 
 <h3 align="left">Redes para contato</h3>
 

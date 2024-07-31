@@ -1,20 +1,20 @@
-<p align="left">Olá! Eu sou Vinicius, futuro Programador Backend!👨🏾‍💻👋🏾</p>
+<h2 align="center">Bem-vindo ao meu GitHub</h2>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Carlos! A passionate Cibersecurity student from Brazil.
-  - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
-  - 🔭 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
+  Olá! Eu sou Vinicius, estudante de Sistema de Informação e com objetivo de ser futuramente um Programador Java em Backend, em um constante processo de evolução todos os dias, ampliando meus conhecimento e aprendendo coisas novas, a procura de uma oportunidade de emprego para começar a atuar logo no que amo fazer!👋🏾
 </p>
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
-  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Cybersecurity, and Machine Learning.
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  <summary>👨🏾‍💻 More about me</summary>
+  
+  - 🧑🏽‍🎓 Tenho 19 anos, estou na 4° fase da faculdade e nesse tempo já aprendi (Java, Git, Analises de Dados, MySQL, POO, Arduino, Packet Tracer, Excel) entre outros conhecimentos... 
+  - 💭 Meu inglês é intermediário e estou cada dia mais aperfeiçoando a escrita, audição e conversação, com objetivo de alcançar o inglês avançado ou a fluência.
+  - 🍃 Gosto de jogar Futebol, ir a praia, fazer exercicíos, ler e estudar programação! Acredito que meus interesses pessoais possam definir uma percepção melhor sobre mim.
 </details>
 <!-- Links -->
 
-<h3 align="left">Redes para contato</h3>
+<h2 align="left">Redes para contato</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vinicius-de-andrade-355703290/" target="_blank">
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Estatística</h3>
+<h2 align="left">Estatística</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -35,25 +35,44 @@
 
 ###
 
-<h3 align="left">Tecnologias que uso</h3>
+<h2 align="left">Tecnologias e Frameworks que uso</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+<table>
+  <tr>
+    <th>Java</th>
+    <th>MySQL</th>
+    <th>Git</th>
+    <th>Spring Boot</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+    </td>
+  </tr>
+</table>
 
-###
+<h2 align="left">IDE que uso</h2>
 
-<h3 align="left">IDE que uso</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
+<table>
+  <tr>
+    <th>IntelliJ</th>
+    <th>VSCode</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+    </td>
+  </tr>
+</table>

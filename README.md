@@ -5,11 +5,12 @@
  Olá! Eu sou Vinicius, estudante de Sistema de Informação e com objetivo de ser futuramente um Programador Java em Backend!👋🏾
   </p>
 </div>
- 
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/2bab3d9d-62d2-45fe-952b-90eaea2c68e3" alt="mylivewallpapers-com-Sekiro-Mortal-Blade-4K">
 </div>
 
+<br>
 
 <!-- Presentation -->
 <p>

@@ -7,6 +7,7 @@
 <!-- Dropdown -->
 <details>
   <summary>👨🏾‍💻 More about me</summary>
+  <br>
   
   - 🧑🏽‍🎓 Tenho 19 anos, estou na 4° fase da faculdade e nesse tempo já aprendi (Java, Git, Analises de Dados, MySQL, POO, Arduino, Packet Tracer, Excel) entre outros conhecimentos... 
   - 💭 Meu inglês é intermediário e estou cada dia mais aperfeiçoando a escrita, audição e conversação, com objetivo de alcançar o inglês avançado ou a fluência.
@@ -20,9 +21,6 @@
   <a href="https://www.linkedin.com/in/vinicius-de-andrade-355703290/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGtqdsgLnqvFSpqlKvDLPHMsFGSRlzxcrfZtTnLpVfcFCVkxcCpRpbljPxkHbXxZzKMg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -30,7 +28,7 @@
 <h2 align="left">Estatística</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viniciuss2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###

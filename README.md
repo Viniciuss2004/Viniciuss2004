@@ -1,4 +1,8 @@
-<h2 align="center" style="color: #ff5733;">Bem-vindo ao meu GitHub</h2>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b0f9580a-3fd1-49ed-8425-edff44ec6113" alt="BEM (1)">
+</div>
+
+<br>
 
 <div align="center">
   <p>

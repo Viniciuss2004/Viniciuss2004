@@ -53,6 +53,7 @@
     <th>MySQL</th>
     <th>Git</th>
     <th>Spring Boot</th>
+    <th>Junit</th>
   </tr>
   <tr>
     <td align="center">
@@ -67,22 +68,26 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
+    </td>
   </tr>
 </table>
+
 
 <h2 align="left">IDE que uso</h2>
 
 <table>
   <tr>
     <th>IntelliJ</th>
-    <th>VSCode</th>
+    <th>Postman</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     </td>
   </tr>
 </table>

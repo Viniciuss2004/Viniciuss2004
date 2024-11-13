@@ -21,8 +21,8 @@
   <summary>👨🏾‍💻 More about me</summary>
   <br>
   
-  - 🧑🏽‍🎓 Tenho 19 anos, estou na 4° fase da faculdade e nesse tempo já aprendi (Java, Git e GitHub, Analises de Dados, MySQL, POO, Junit, Mockito, Maven, Packet Tracer, Pacote Office) entre outros conhecimentos... 
-  - 💭 Meu inglês é intermediário e estou cada dia mais aperfeiçoando a escrita, audição e conversação, com objetivo de alcançar o inglês avançado ou a fluência.
+  - 🧑🏽‍🎓 Tenho 20 anos, estou na 4° fase da faculdade e nesse tempo já aprendi (Java, Git e GitHub, Analises de Dados, MySQL, POO, Junit, Mockito, Maven, Packet Tracer, Pacote Office) entre outros conhecimentos... 
+  - 💭 Meu inglês é básico e estou cada dia mais aperfeiçoando a escrita, audição e conversação, com objetivo de alcançar o inglês avançado ou a fluência.
   - 🍃 Gosto de jogar Futebol, ir a praia, fazer exercicíos, ler e estudar programação! Acredito que meus interesses pessoais possam definir uma percepção melhor sobre mim.
 </details>
 <!-- Links -->
@@ -80,10 +80,14 @@
 <table>
   <tr>
     <th>IntelliJ</th>
+    <th>Postman</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     </td>
   </tr>
 </table>
